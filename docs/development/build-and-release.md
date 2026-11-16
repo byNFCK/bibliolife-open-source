@@ -72,6 +72,14 @@ For a future version, choose a deliberate user-facing build name and monotonical
 
 Do not run this placeholder command unchanged. Build overrides do not update pubspec.yaml automatically. Android versionCode, Flutter package version, Drift schema **23**, bridge protocol and upstream Readium version are different version contracts. Increasing an app build number does not authorize a database migration or a Readium upgrade.
 
+## Publish the signed v1.0.0 APK
+
+1. On a trusted machine, check out tag `v1.0.0` in a separate working copy so the APK uses the source already published with that release.
+2. The owner must select the production Android signing keystore and make the keystore file, its password, the signing alias and the alias password available locally. Follow the [signing setup above](#signing-and-versioning) to configure `storeFile`, `storePassword`, `keyAlias` and `keyPassword` in the ignored `android/key.properties`. Keep a secure backup of the keystore and its credentials for future updates.
+3. Install the toolchain from [setup](setup.md), run `flutter pub get --enforce-lockfile`, then run `flutter build apk --release -t lib/main.dart`. The expected universal APK is `build/app/outputs/flutter-apk/app-release.apk`.
+4. With Android SDK Build Tools, run `apksigner verify --verbose --print-certs` on that APK and compare the SHA-256 certificate fingerprint with the owner's production certificate. Run `aapt dump badging` to confirm package `app.bibliolife.reader`, version name `1.0.0`, and version code `1`. Test a clean install and launch on an Android device.
+5. Publish the verified artifact as `BiblioLife-v1.0.0.apk` and add a separate `BiblioLife-v1.0.0.apk.sha256` checksum asset on the [existing v1.0.0 release](https://github.com/byNFCK/bibliolife-open-source/releases/tag/v1.0.0). Preserve the existing assets. After checking the public asset download, point the README download link directly to the APK and update the availability text.
+
 ## Data-preserving APK update procedure
 
 For an authorized development-device update:
