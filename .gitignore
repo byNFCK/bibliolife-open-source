@@ -1,0 +1,89 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/android/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Generated SDK configuration for the local Readium composite build.
+/third_party/readium-kotlin-toolkit/local.properties
+
+# Local development log sessions.
+/logs/sessions/*
+!/logs/sessions/.gitkeep
+
+# Private device captures and local acceptance artifacts (keep on disk).
+/artifacts/
+
+# Local credentials and development configuration.
+.env
+.env.*
+!.env.example
+!.env.template
+**/key.properties
+**/*.jks
+**/*.keystore
+**/*.p12
+**/*.pfx
+**/service-account*.json
+**/credentials.json
+
+# Local caches, profiling data and application packages.
+**/node_modules/
+**/__pycache__/
+*.hprof
+*.apk
+*.aab
+# Local configuration, private content and captures
+**/local.properties
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.template
+/logs/sessions/**
+!/logs/sessions/.gitkeep
+/artifacts/
+*.lcpl.local
+*.heapdump
+*.trace
+*.perfetto-trace

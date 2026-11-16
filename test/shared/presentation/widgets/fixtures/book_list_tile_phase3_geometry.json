@@ -1,0 +1,1002 @@
+{
+  "local/dark=false/width=400.0/scale=1.0": {
+    "row": [
+      0.0,
+      0.0,
+      400.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        212.0,
+        44.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4279901216,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        60.0,
+        212.0,
+        38.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4282664782,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": [
+      336.0,
+      12.0,
+      48.0,
+      48.0
+    ],
+    "bottom": [
+      124.0,
+      134.0,
+      53.6,
+      16.0
+    ]
+  },
+  "collection/dark=false/width=400.0/scale=1.0": {
+    "row": [
+      0.0,
+      0.0,
+      400.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        212.0,
+        44.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4279901216,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        60.0,
+        212.0,
+        38.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4282664782,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": [
+      336.0,
+      12.0,
+      48.0,
+      48.0
+    ],
+    "bottom": [
+      124.0,
+      134.0,
+      53.6,
+      16.0
+    ]
+  },
+  "remote/dark=false/width=400.0/scale=1.0": {
+    "row": [
+      0.0,
+      0.0,
+      400.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        260.0,
+        44.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4279901216,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        60.0,
+        260.0,
+        38.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4282664782,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": null,
+    "bottom": null
+  },
+  "missing-author/dark=false/width=400.0/scale=1.0": {
+    "row": [
+      0.0,
+      0.0,
+      400.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        260.0,
+        44.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4279901216,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": null,
+    "status": null,
+    "actions": null,
+    "bottom": null
+  },
+  "status/dark=false/width=400.0/scale=1.0": {
+    "row": [
+      0.0,
+      0.0,
+      400.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        260.0,
+        44.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4279901216,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        60.0,
+        260.0,
+        38.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4282664782,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": {
+      "rect": [
+        124.0,
+        118.0,
+        260.0,
+        32.0
+      ],
+      "fontSize": 13.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4282664782,
+      "maxLines": null,
+      "overflow": null
+    },
+    "actions": null,
+    "bottom": [
+      124.0,
+      118.0,
+      260.0,
+      32.0
+    ]
+  },
+  "local/dark=false/width=320.0/scale=2.0": {
+    "row": [
+      0.0,
+      0.0,
+      320.0,
+      235.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        132.0,
+        86.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4279901216,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        102.0,
+        132.0,
+        76.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4282664782,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": [
+      256.0,
+      12.0,
+      48.0,
+      48.0
+    ],
+    "bottom": [
+      124.0,
+      190.0,
+      105.6,
+      33.0
+    ]
+  },
+  "collection/dark=false/width=320.0/scale=2.0": {
+    "row": [
+      0.0,
+      0.0,
+      320.0,
+      235.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        132.0,
+        86.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4279901216,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        102.0,
+        132.0,
+        76.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4282664782,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": [
+      256.0,
+      12.0,
+      48.0,
+      48.0
+    ],
+    "bottom": [
+      124.0,
+      190.0,
+      105.6,
+      33.0
+    ]
+  },
+  "remote/dark=false/width=320.0/scale=2.0": {
+    "row": [
+      0.0,
+      0.0,
+      320.0,
+      190.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        180.0,
+        86.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4279901216,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        102.0,
+        180.0,
+        76.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4282664782,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": null,
+    "bottom": null
+  },
+  "missing-author/dark=false/width=320.0/scale=2.0": {
+    "row": [
+      0.0,
+      0.0,
+      320.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        180.0,
+        86.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4279901216,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": null,
+    "status": null,
+    "actions": null,
+    "bottom": null
+  },
+  "status/dark=false/width=320.0/scale=2.0": {
+    "row": [
+      0.0,
+      0.0,
+      320.0,
+      268.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        180.0,
+        86.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4279901216,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        102.0,
+        180.0,
+        76.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4282664782,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": {
+      "rect": [
+        124.0,
+        190.0,
+        180.0,
+        66.0
+      ],
+      "fontSize": 13.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4282664782,
+      "maxLines": null,
+      "overflow": null
+    },
+    "actions": null,
+    "bottom": [
+      124.0,
+      190.0,
+      180.0,
+      66.0
+    ]
+  },
+  "local/dark=true/width=400.0/scale=1.0": {
+    "row": [
+      0.0,
+      0.0,
+      400.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        212.0,
+        44.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4293059305,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        60.0,
+        212.0,
+        38.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4291086032,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": [
+      336.0,
+      12.0,
+      48.0,
+      48.0
+    ],
+    "bottom": [
+      124.0,
+      134.0,
+      53.6,
+      16.0
+    ]
+  },
+  "collection/dark=true/width=400.0/scale=1.0": {
+    "row": [
+      0.0,
+      0.0,
+      400.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        212.0,
+        44.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4293059305,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        60.0,
+        212.0,
+        38.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4291086032,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": [
+      336.0,
+      12.0,
+      48.0,
+      48.0
+    ],
+    "bottom": [
+      124.0,
+      134.0,
+      53.6,
+      16.0
+    ]
+  },
+  "remote/dark=true/width=400.0/scale=1.0": {
+    "row": [
+      0.0,
+      0.0,
+      400.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        260.0,
+        44.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4293059305,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        60.0,
+        260.0,
+        38.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4291086032,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": null,
+    "bottom": null
+  },
+  "missing-author/dark=true/width=400.0/scale=1.0": {
+    "row": [
+      0.0,
+      0.0,
+      400.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        260.0,
+        44.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4293059305,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": null,
+    "status": null,
+    "actions": null,
+    "bottom": null
+  },
+  "status/dark=true/width=400.0/scale=1.0": {
+    "row": [
+      0.0,
+      0.0,
+      400.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        260.0,
+        44.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4293059305,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        60.0,
+        260.0,
+        38.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4291086032,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": {
+      "rect": [
+        124.0,
+        118.0,
+        260.0,
+        32.0
+      ],
+      "fontSize": 13.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4291086032,
+      "maxLines": null,
+      "overflow": null
+    },
+    "actions": null,
+    "bottom": [
+      124.0,
+      118.0,
+      260.0,
+      32.0
+    ]
+  },
+  "local/dark=true/width=320.0/scale=2.0": {
+    "row": [
+      0.0,
+      0.0,
+      320.0,
+      235.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        132.0,
+        86.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4293059305,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        102.0,
+        132.0,
+        76.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4291086032,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": [
+      256.0,
+      12.0,
+      48.0,
+      48.0
+    ],
+    "bottom": [
+      124.0,
+      190.0,
+      105.6,
+      33.0
+    ]
+  },
+  "collection/dark=true/width=320.0/scale=2.0": {
+    "row": [
+      0.0,
+      0.0,
+      320.0,
+      235.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        132.0,
+        86.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4293059305,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        102.0,
+        132.0,
+        76.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4291086032,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": [
+      256.0,
+      12.0,
+      48.0,
+      48.0
+    ],
+    "bottom": [
+      124.0,
+      190.0,
+      105.6,
+      33.0
+    ]
+  },
+  "remote/dark=true/width=320.0/scale=2.0": {
+    "row": [
+      0.0,
+      0.0,
+      320.0,
+      190.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        180.0,
+        86.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4293059305,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        102.0,
+        180.0,
+        76.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4291086032,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": null,
+    "actions": null,
+    "bottom": null
+  },
+  "missing-author/dark=true/width=320.0/scale=2.0": {
+    "row": [
+      0.0,
+      0.0,
+      320.0,
+      162.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        180.0,
+        86.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4293059305,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": null,
+    "status": null,
+    "actions": null,
+    "bottom": null
+  },
+  "status/dark=true/width=320.0/scale=2.0": {
+    "row": [
+      0.0,
+      0.0,
+      320.0,
+      268.0
+    ],
+    "cover": [
+      16.0,
+      12.0,
+      92.0,
+      138.0
+    ],
+    "title": {
+      "rect": [
+        124.0,
+        12.0,
+        180.0,
+        86.0
+      ],
+      "fontSize": 18.0,
+      "height": 1.2,
+      "weight": 600,
+      "color": 4293059305,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "metadata": {
+      "rect": [
+        124.0,
+        102.0,
+        180.0,
+        76.0
+      ],
+      "fontSize": 15.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4291086032,
+      "maxLines": 2,
+      "overflow": "ellipsis"
+    },
+    "status": {
+      "rect": [
+        124.0,
+        190.0,
+        180.0,
+        66.0
+      ],
+      "fontSize": 13.0,
+      "height": 1.25,
+      "weight": 400,
+      "color": 4291086032,
+      "maxLines": null,
+      "overflow": null
+    },
+    "actions": null,
+    "bottom": [
+      124.0,
+      190.0,
+      180.0,
+      66.0
+    ]
+  }
+}

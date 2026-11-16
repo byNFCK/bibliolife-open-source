@@ -1,0 +1,8 @@
+<resources>
+    <!--
+      PlatformViews inherit Flutter's platform Android theme, which is not a
+      Material Components theme. Scope Material 3 attributes to the native
+      floating toolbar without changing MainActivity or Flutter chrome.
+    -->
+    <style name="BiblioLifeReadiumPopupTheme" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>

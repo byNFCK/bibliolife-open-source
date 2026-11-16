@@ -1,0 +1,22 @@
+/*
+ * Module: r2-streamer-kotlin
+ * Developers: Quentin Gliosca
+ *
+ * Copyright (c) 2020. Readium Foundation. All rights reserved.
+ * Use of this source code is governed by a BSD-style license which is detailed in the
+ * LICENSE file present in the project repository where this source code is maintained.
+ */
+
+package org.readium.r2.streamer.extensions
+
+import java.io.File
+
+/**
+ * Returns a [File] to the first component of the [File]'s path,
+ * regardless of whether it is a directory or a file.
+ */
+internal val File.firstComponent: File
+    get() = parentFile
+        ?.takeUnless { it.isAbsolute && it.parentFile == null }
+        ?.firstComponent
+        ?: this

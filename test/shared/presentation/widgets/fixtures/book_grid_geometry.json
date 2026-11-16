@@ -1,0 +1,362 @@
+{
+  "false-320.0-2.0-false": {
+    "cover": [
+      0.0,
+      0.0,
+      136.0,
+      209.2308
+    ],
+    "bar": [
+      0.0,
+      169.2308,
+      136.0,
+      40.0
+    ],
+    "title": {
+      "rect": [
+        0.0,
+        217.2308,
+        136.0,
+        80.0
+      ],
+      "size": 14.0,
+      "height": 1.43,
+      "weight": 500,
+      "color": 4279901216,
+      "lines": 2,
+      "overflow": "ellipsis"
+    },
+    "author": {
+      "rect": [
+        0.0,
+        297.2308,
+        136.0,
+        32.0
+      ],
+      "size": 12.0,
+      "height": 1.33,
+      "weight": 400,
+      "color": 4282664782,
+      "lines": 1,
+      "overflow": "ellipsis"
+    },
+    "radius": 24.0,
+    "margin": "EdgeInsets.zero",
+    "color": 4294177786
+  },
+  "false-320.0-2.0-true": {
+    "cover": [
+      0.0,
+      0.0,
+      136.0,
+      209.2308
+    ],
+    "bar": [
+      0.0,
+      169.2308,
+      136.0,
+      40.0
+    ],
+    "title": {
+      "rect": [
+        0.0,
+        217.2308,
+        136.0,
+        80.0
+      ],
+      "size": 14.0,
+      "height": 1.43,
+      "weight": 500,
+      "color": 4279901216,
+      "lines": 2,
+      "overflow": "ellipsis"
+    },
+    "author": {
+      "rect": [
+        0.0,
+        297.2308,
+        136.0,
+        32.0
+      ],
+      "size": 12.0,
+      "height": 1.33,
+      "weight": 400,
+      "color": 4282664782,
+      "lines": 1,
+      "overflow": "ellipsis"
+    },
+    "radius": 24.0,
+    "margin": "EdgeInsets.zero",
+    "color": 4294177786
+  },
+  "false-400.0-1.0-false": {
+    "cover": [
+      0.0,
+      0.0,
+      176.0,
+      270.7692
+    ],
+    "bar": [
+      0.0,
+      230.7692,
+      176.0,
+      40.0
+    ],
+    "title": {
+      "rect": [
+        0.0,
+        278.7692,
+        176.0,
+        40.0
+      ],
+      "size": 14.0,
+      "height": 1.43,
+      "weight": 500,
+      "color": 4279901216,
+      "lines": 2,
+      "overflow": "ellipsis"
+    },
+    "author": {
+      "rect": [
+        0.0,
+        318.7692,
+        176.0,
+        16.0
+      ],
+      "size": 12.0,
+      "height": 1.33,
+      "weight": 400,
+      "color": 4282664782,
+      "lines": 1,
+      "overflow": "ellipsis"
+    },
+    "radius": 24.0,
+    "margin": "EdgeInsets.zero",
+    "color": 4294177786
+  },
+  "false-400.0-1.0-true": {
+    "cover": [
+      0.0,
+      0.0,
+      176.0,
+      270.7692
+    ],
+    "bar": [
+      0.0,
+      230.7692,
+      176.0,
+      40.0
+    ],
+    "title": {
+      "rect": [
+        0.0,
+        278.7692,
+        176.0,
+        40.0
+      ],
+      "size": 14.0,
+      "height": 1.43,
+      "weight": 500,
+      "color": 4279901216,
+      "lines": 2,
+      "overflow": "ellipsis"
+    },
+    "author": {
+      "rect": [
+        0.0,
+        318.7692,
+        176.0,
+        16.0
+      ],
+      "size": 12.0,
+      "height": 1.33,
+      "weight": 400,
+      "color": 4282664782,
+      "lines": 1,
+      "overflow": "ellipsis"
+    },
+    "radius": 24.0,
+    "margin": "EdgeInsets.zero",
+    "color": 4294177786
+  },
+  "true-320.0-2.0-false": {
+    "cover": [
+      0.0,
+      0.0,
+      136.0,
+      209.2308
+    ],
+    "bar": [
+      0.0,
+      169.2308,
+      136.0,
+      40.0
+    ],
+    "title": {
+      "rect": [
+        0.0,
+        217.2308,
+        136.0,
+        80.0
+      ],
+      "size": 14.0,
+      "height": 1.43,
+      "weight": 500,
+      "color": 4293059305,
+      "lines": 2,
+      "overflow": "ellipsis"
+    },
+    "author": {
+      "rect": [
+        0.0,
+        297.2308,
+        136.0,
+        32.0
+      ],
+      "size": 12.0,
+      "height": 1.33,
+      "weight": 400,
+      "color": 4291086032,
+      "lines": 1,
+      "overflow": "ellipsis"
+    },
+    "radius": 24.0,
+    "margin": "EdgeInsets.zero",
+    "color": 4279901216
+  },
+  "true-320.0-2.0-true": {
+    "cover": [
+      0.0,
+      0.0,
+      136.0,
+      209.2308
+    ],
+    "bar": [
+      0.0,
+      169.2308,
+      136.0,
+      40.0
+    ],
+    "title": {
+      "rect": [
+        0.0,
+        217.2308,
+        136.0,
+        80.0
+      ],
+      "size": 14.0,
+      "height": 1.43,
+      "weight": 500,
+      "color": 4293059305,
+      "lines": 2,
+      "overflow": "ellipsis"
+    },
+    "author": {
+      "rect": [
+        0.0,
+        297.2308,
+        136.0,
+        32.0
+      ],
+      "size": 12.0,
+      "height": 1.33,
+      "weight": 400,
+      "color": 4291086032,
+      "lines": 1,
+      "overflow": "ellipsis"
+    },
+    "radius": 24.0,
+    "margin": "EdgeInsets.zero",
+    "color": 4279901216
+  },
+  "true-400.0-1.0-false": {
+    "cover": [
+      0.0,
+      0.0,
+      176.0,
+      270.7692
+    ],
+    "bar": [
+      0.0,
+      230.7692,
+      176.0,
+      40.0
+    ],
+    "title": {
+      "rect": [
+        0.0,
+        278.7692,
+        176.0,
+        40.0
+      ],
+      "size": 14.0,
+      "height": 1.43,
+      "weight": 500,
+      "color": 4293059305,
+      "lines": 2,
+      "overflow": "ellipsis"
+    },
+    "author": {
+      "rect": [
+        0.0,
+        318.7692,
+        176.0,
+        16.0
+      ],
+      "size": 12.0,
+      "height": 1.33,
+      "weight": 400,
+      "color": 4291086032,
+      "lines": 1,
+      "overflow": "ellipsis"
+    },
+    "radius": 24.0,
+    "margin": "EdgeInsets.zero",
+    "color": 4279901216
+  },
+  "true-400.0-1.0-true": {
+    "cover": [
+      0.0,
+      0.0,
+      176.0,
+      270.7692
+    ],
+    "bar": [
+      0.0,
+      230.7692,
+      176.0,
+      40.0
+    ],
+    "title": {
+      "rect": [
+        0.0,
+        278.7692,
+        176.0,
+        40.0
+      ],
+      "size": 14.0,
+      "height": 1.43,
+      "weight": 500,
+      "color": 4293059305,
+      "lines": 2,
+      "overflow": "ellipsis"
+    },
+    "author": {
+      "rect": [
+        0.0,
+        318.7692,
+        176.0,
+        16.0
+      ],
+      "size": 12.0,
+      "height": 1.33,
+      "weight": 400,
+      "color": 4291086032,
+      "lines": 1,
+      "overflow": "ellipsis"
+    },
+    "radius": 24.0,
+    "margin": "EdgeInsets.zero",
+    "color": 4279901216
+  }
+}

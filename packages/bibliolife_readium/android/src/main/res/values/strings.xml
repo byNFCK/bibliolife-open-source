@@ -1,0 +1,8 @@
+<resources>
+    <string name="copy_highlight">Copy highlighted text</string>
+    <string name="delete_highlight">Delete highlight</string>
+    <string name="highlight_color_yellow">Yellow highlight</string>
+    <string name="highlight_color_green">Green highlight</string>
+    <string name="highlight_color_blue">Blue highlight</string>
+    <string name="highlight_color_pink">Pink highlight</string>
+</resources>

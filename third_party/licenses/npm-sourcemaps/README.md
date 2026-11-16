@@ -1,0 +1,33 @@
+# Licenses for npm sources in Readium web source maps
+
+The listed package sources are included in the distributed Readium web source maps. The corresponding package files were compared with the npm archives for these versions. The linked files preserve the copyright and permission notices from those archives. Further review of all bundled content and obligations remains necessary.
+
+- The MIT notice for approx-string-match 1.1.0 comes from upstream commit 3bc73eb86ebd0f2f753dee5a834f5887ee6915e1. The npm release declares MIT, and the executable source is unchanged between the release and that notice.
+- call-bind 1.0.2: [upstream license](call-bind@1.0.2--0--LICENSE)
+- define-data-property 1.1.0: [upstream license](define-data-property@1.1.0--0--LICENSE)
+- define-properties 1.2.1: [upstream license](define-properties@1.2.1--0--LICENSE)
+- es-abstract 1.22.2: [upstream license](es-abstract@1.22.2--0--LICENSE)
+- es-set-tostringtag 2.0.1: [upstream license](es-set-tostringtag@2.0.1--0--LICENSE)
+- es-to-primitive 1.2.1: [upstream license](es-to-primitive@1.2.1--0--LICENSE)
+- function-bind 1.1.1: [upstream license](function-bind@1.1.1--0--LICENSE)
+- functions-have-names 1.2.3: [upstream license](functions-have-names@1.2.3--0--LICENSE)
+- get-intrinsic 1.2.1: [upstream license](get-intrinsic@1.2.1--0--LICENSE)
+- gopd 1.0.1: [upstream license](gopd@1.0.1--0--LICENSE)
+- has 1.0.4: [upstream license](has@1.0.4--0--LICENSE-MIT)
+- has-property-descriptors 1.0.0: [upstream license](has-property-descriptors@1.0.0--0--LICENSE)
+- has-proto 1.0.1: [upstream license](has-proto@1.0.1--0--LICENSE)
+- has-symbols 1.0.3: [upstream license](has-symbols@1.0.3--0--LICENSE)
+- has-tostringtag 1.0.0: [upstream license](has-tostringtag@1.0.0--0--LICENSE)
+- internal-slot 1.0.5: [upstream license](internal-slot@1.0.5--0--LICENSE)
+- is-callable 1.2.7: [upstream license](is-callable@1.2.7--0--LICENSE)
+- is-date-object 1.0.5: [upstream license](is-date-object@1.0.5--0--LICENSE)
+- is-regex 1.1.4: [upstream license](is-regex@1.1.4--0--LICENSE)
+- is-symbol 1.0.4: [upstream license](is-symbol@1.0.4--0--LICENSE)
+- object-inspect 1.12.3: [upstream license](object-inspect@1.12.3--0--LICENSE)
+- object-keys 1.1.1: [upstream license](object-keys@1.1.1--0--LICENSE)
+- regexp.prototype.flags 1.5.1: [upstream license](regexp.prototype.flags@1.5.1--0--LICENSE)
+- safe-regex-test 1.0.0: [upstream license](safe-regex-test@1.0.0--0--LICENSE)
+- set-function-name 2.0.1: [upstream license](set-function-name@2.0.1--0--LICENSE)
+- side-channel 1.0.4: [upstream license](side-channel@1.0.4--0--LICENSE)
+- string.prototype.matchall 4.0.10: [upstream license](string.prototype.matchall@4.0.10--0--LICENSE)
+- string.prototype.trim 1.2.8: [upstream license](string.prototype.trim@1.2.8--0--LICENSE)
