@@ -4,12 +4,20 @@ BiblioLife is an open-source Android library and reader built with Flutter and R
 
 ## Download APK
 
-**A signed APK is pending for v1.0.0.** The [GitHub release](https://github.com/byNFCK/bibliolife-open-source/releases/tag/v1.0.0) currently provides the source archive, dependency inventory, third-party notices and checksums. To build a development APK today, see [Android setup](docs/development/setup.md).
+Download the [BiblioLife v1.0.0 testing APK](https://github.com/byNFCK/bibliolife-open-source/releases/download/v1.0.0/BiblioLife-v1.0.0-profile-testing.apk) for Android 7.0 (API 24) or newer. This is a **profile testing build signed with Android Debug, not a production-signed release**.
 
-Once the signed APK is published, install it on Android 7.0 or newer.
+1. Download `BiblioLife-v1.0.0-profile-testing.apk` and its [SHA-256 checksum](https://github.com/byNFCK/bibliolife-open-source/releases/download/v1.0.0/BiblioLife-v1.0.0-profile-testing.apk.sha256).
+2. Open the APK. If Android prompts you, allow installs from the browser or file manager that opened it, then tap **Install**.
 
-1. Open the [v1.0.0 release](https://github.com/byNFCK/bibliolife-open-source/releases/tag/v1.0.0) on your Android device and download `BiblioLife-v1.0.0.apk` under **Assets**.
-2. Open the downloaded APK. If Android prompts you, allow installs from the browser or file manager that opened it, then tap **Install**.
+Package: `com.zeytr.bibliolife`; version: `1.0.0`; versionCode: `1`; variant: `profile`.
+
+APK SHA-256: `4dc7b07d263deb07a42f8c2c038e4e987d4041da9754a32c857389eb90d643aa`.
+
+Signer: `C=US, O=Android, CN=Android Debug`. Certificate SHA-256: `94348e9cbc0382365be3d11d400b4f92be5bbc7c59ea18efb7d09add9a956691`.
+
+In-place updates require the same package ID and signing certificate and a compatible versionCode. A future production build signed with a different certificate cannot normally update this testing installation in-place. Export/back up your data before uninstalling; uninstalling removes app data.
+
+The APK signature has been verified. No install or full functional acceptance report tied to this exact APK hash was found. See the [v1.0.0 release](https://github.com/byNFCK/bibliolife-open-source/releases/tag/v1.0.0) for the preserved source archive, SBOM, notices and original checksums. The existing SBOM describes the source release build; it is not a newly generated inventory of this APK. For local builds, see [Android setup](docs/development/setup.md).
 
 ## Screenshots
 
